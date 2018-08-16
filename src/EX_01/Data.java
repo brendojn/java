@@ -40,8 +40,9 @@ public class Data {
         int lastDayMonth = cal.getActualMaximum(cal.DAY_OF_MONTH);
         int lastMonth = cal.getActualMaximum(cal.MONTH) + 1;
 
-        if (mes >= lastMonth){
-            mes = cal.getActualMinimum(cal.MONTH);
+        if (this.mes >= lastMonth){
+            this.mes = cal.getActualMinimum(cal.MONTH);
+            this.ano++;
         }
 
         int intervalDays = 0;

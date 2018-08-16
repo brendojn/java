@@ -34,6 +34,7 @@ class DataTest {
         date.adicionaDias(2);
         assertEquals(01, date.getMes());
         assertEquals(01, date.getDia());
+        assertEquals(2019, date.getAno());
     }
 
 
