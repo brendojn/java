@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd0045dc-5714-4cd2-af56-bf2a226347c6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/EX_01/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicio01/EX_01/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/EX_01/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicio01/EX_01/DataTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/EX_01/Seleção_001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_01.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EX_01/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_01/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_01/DataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_01/DataTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +21,8 @@
       <file leaf-file-name="Data.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EX_01/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#390#391#0" expanded="true" />
@@ -44,8 +39,8 @@
       <file leaf-file-name="DataTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EX_01/DataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="213">
+              <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,8 +51,8 @@
       <file leaf-file-name="DataApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EX_01/DataApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="163">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,6 +127,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -167,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataTest.testAdicionaDiasPassaAno">
+  <component name="RunManager" selected="Application.DataApp">
     <configuration name="DataApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX_01.DataApp" />
       <module name="Exercicio01" />
@@ -247,7 +242,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DataTest.testeProximoDiaLimite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataTest.testDiaDaSemanaMaiorQueUltimo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
@@ -259,7 +254,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="EX_01" />
       <option name="MAIN_CLASS_NAME" value="EX_01.DataTest" />
-      <option name="METHOD_NAME" value="testeProximoDiaLimite" />
+      <option name="METHOD_NAME" value="testDiaDaSemanaMaiorQueUltimo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -271,19 +266,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DataTest.testeProximoDiaLimite" />
       <item itemvalue="Application.DataApp" />
       <item itemvalue="JUnit.DataTest" />
       <item itemvalue="JUnit.DataTest.testAdicionaMuitosDiasPassaAno" />
       <item itemvalue="JUnit.DataTest.testAdicionaDiasPassaAno" />
+      <item itemvalue="JUnit.DataTest.testDiaDaSemanaMaiorQueUltimo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DataTest.testAdicionaDiasPassaAno" />
-        <item itemvalue="JUnit.DataTest" />
-        <item itemvalue="JUnit.DataTest.testAdicionaMuitosDiasPassaAno" />
         <item itemvalue="Application.DataApp" />
-        <item itemvalue="JUnit.DataTest.testeProximoDiaLimite" />
+        <item itemvalue="JUnit.DataTest" />
+        <item itemvalue="JUnit.DataTest.testDiaDaSemanaMaiorQueUltimo" />
+        <item itemvalue="JUnit.DataTest.testAdicionaDiasPassaAno" />
+        <item itemvalue="JUnit.DataTest.testAdicionaMuitosDiasPassaAno" />
       </list>
     </recent_temporary>
   </component>
@@ -301,20 +296,12 @@
       <workItem from="1534092364791" duration="3690000" />
       <workItem from="1534106201129" duration="16205000" />
       <workItem from="1534387925227" duration="1293000" />
-      <workItem from="1534392443194" duration="132000" />
+      <workItem from="1534392443194" duration="194000" />
+      <workItem from="1534598041927" duration="2566000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTest_testAdicionaMuitosDiasPassaAno - 2018.08.16 at 00h 21m 52s.xml">
-      <configuration name="DataTest.testAdicionaMuitosDiasPassaAno" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataTest - 2018.08.16 at 00h 23m 55s.xml">
-      <configuration name="DataTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataTest - 2018.08.16 at 00h 24m 15s.xml">
-      <configuration name="DataTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataTest - 2018.08.16 at 00h 25m 10s.xml">
       <configuration name="DataTest" configurationId="JUnit" />
     </history-entry>
@@ -336,12 +323,21 @@
     <history-entry file="DataTest_testAdicionaDiasPassaAno - 2018.08.16 at 01h 08m 54s.xml">
       <configuration name="DataTest.testAdicionaDiasPassaAno" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataTest_testAdicionaDiasPassaAno - 2018.08.16 at 01h 09m 42s.xml">
+      <configuration name="DataTest.testAdicionaDiasPassaAno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_testDiaDaSemanaMaiorQueUltimo - 2018.08.18 at 11h 38m 20s.xml">
+      <configuration name="DataTest.testDiaDaSemanaMaiorQueUltimo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest - 2018.08.18 at 11h 38m 30s.xml">
+      <configuration name="DataTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21905000" />
+    <option name="totallyTimeSpent" value="24533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -354,11 +350,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3060606" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3048973" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287879" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23572475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23556583" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -367,11 +363,11 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.477306" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +382,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/EX_01/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_01/DataApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_01/DataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/EX_01/Data.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2130">
@@ -617,20 +649,20 @@
     <entry file="file://$PROJECT_DIR$/src/EX_01/class-diagram.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_01/DataApp.java">
+    <entry file="file://$PROJECT_DIR$/src/EX_01/DataTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="213">
+          <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_01/DataTest.java">
+    <entry file="file://$PROJECT_DIR$/src/EX_01/DataApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="163">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -639,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EX_01/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#390#391#0" expanded="true" />
