@@ -41,7 +41,7 @@ public class Data {
         int lastMonth = cal.getActualMaximum(cal.MONTH) + 1;
         int firstMonth = cal.getActualMinimum(cal.MONTH);
 
-        if (this.mes >= lastMonth){
+        if (this.mes >= lastMonth) {
             this.mes = firstMonth;
             this.ano++;
         }
