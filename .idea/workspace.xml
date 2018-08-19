@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0045dc-5714-4cd2-af56-bf2a226347c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_02/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_02/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_02/PessoaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_02/PessoaApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EX_02/PessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_02/PessoaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_03/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_03/Conta.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,56 +19,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pessoa.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EX_02/Pessoa.java">
+      <file leaf-file-name="Conta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+            <state relative-caret-position="150">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
               <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PessoaApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaApp.java">
+      <file leaf-file-name="ContaApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EX_03/ContaApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="201">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
+      <file leaf-file-name="ContaTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EX_03/ContaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PessoaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="105">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,10 +83,12 @@
         <option value="$PROJECT_DIR$/src/EX_01/DataApp.java" />
         <option value="$PROJECT_DIR$/src/EX_01/DataTest.java" />
         <option value="$PROJECT_DIR$/src/EX_01/Data.java" />
-        <option value="$PROJECT_DIR$/src/EX_03/Conta.java" />
         <option value="$PROJECT_DIR$/src/EX_02/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/EX_02/PessoaTest.java" />
         <option value="$PROJECT_DIR$/src/EX_02/PessoaApp.java" />
+        <option value="$PROJECT_DIR$/src/EX_02/PessoaTest.java" />
+        <option value="$PROJECT_DIR$/src/EX_03/ContaTest.java" />
+        <option value="$PROJECT_DIR$/src/EX_03/Conta.java" />
+        <option value="$PROJECT_DIR$/src/EX_03/ContaApp.java" />
       </list>
     </option>
   </component>
@@ -111,10 +102,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
+    <option name="x" value="-32" />
+    <option name="y" value="87" />
+    <option name="width" value="1289" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -187,29 +178,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PessoaApp">
-    <configuration name="PessoaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EX_02.PessoaApp" />
+  <component name="RunManager" selected="Application.ContaApp">
+    <configuration name="ContaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX_03.ContaApp" />
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EX_02.*" />
+          <option name="PATTERN" value="EX_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EX_02.*" />
+          <option name="PATTERN" value="EX_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="EX_02" />
-      <option name="MAIN_CLASS_NAME" value="EX_02.PessoaTest" />
+      <option name="PACKAGE_NAME" value="EX_03" />
+      <option name="MAIN_CLASS_NAME" value="EX_03.ContaTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -221,19 +212,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PessoaTest.testMaiorIdade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest.testSaqueMaiorQueSaldo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EX_02.*" />
+          <option name="PATTERN" value="EX_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="EX_02" />
-      <option name="MAIN_CLASS_NAME" value="EX_02.PessoaTest" />
-      <option name="METHOD_NAME" value="testMaiorIdade" />
+      <option name="PACKAGE_NAME" value="EX_03" />
+      <option name="MAIN_CLASS_NAME" value="EX_03.ContaTest" />
+      <option name="METHOD_NAME" value="testSaqueMaiorQueSaldo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -244,19 +235,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PessoaTest.testMaiorIdadeFalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest.testSaqueNegativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EX_02.*" />
+          <option name="PATTERN" value="EX_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="EX_02" />
-      <option name="MAIN_CLASS_NAME" value="EX_02.PessoaTest" />
-      <option name="METHOD_NAME" value="testMaiorIdadeFalha" />
+      <option name="PACKAGE_NAME" value="EX_03" />
+      <option name="MAIN_CLASS_NAME" value="EX_03.ContaTest" />
+      <option name="METHOD_NAME" value="testSaqueNegativo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -267,19 +258,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PessoaTest.testMaiorIdadeNegativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest.testSaqueTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EX_02.*" />
+          <option name="PATTERN" value="EX_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="EX_02" />
-      <option name="MAIN_CLASS_NAME" value="EX_02.PessoaTest" />
-      <option name="METHOD_NAME" value="testMaiorIdadeNegativo" />
+      <option name="PACKAGE_NAME" value="EX_03" />
+      <option name="MAIN_CLASS_NAME" value="EX_03.ContaTest" />
+      <option name="METHOD_NAME" value="testSaqueTotal" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -291,19 +282,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PessoaTest" />
-      <item itemvalue="JUnit.PessoaTest.testMaiorIdade" />
-      <item itemvalue="JUnit.PessoaTest.testMaiorIdadeFalha" />
-      <item itemvalue="JUnit.PessoaTest.testMaiorIdadeNegativo" />
-      <item itemvalue="Application.PessoaApp" />
+      <item itemvalue="JUnit.ContaTest" />
+      <item itemvalue="JUnit.ContaTest.testSaqueNegativo" />
+      <item itemvalue="JUnit.ContaTest.testSaqueTotal" />
+      <item itemvalue="JUnit.ContaTest.testSaqueMaiorQueSaldo" />
+      <item itemvalue="Application.ContaApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PessoaApp" />
-        <item itemvalue="JUnit.PessoaTest" />
-        <item itemvalue="JUnit.PessoaTest.testMaiorIdadeNegativo" />
-        <item itemvalue="JUnit.PessoaTest.testMaiorIdadeFalha" />
-        <item itemvalue="JUnit.PessoaTest.testMaiorIdade" />
+        <item itemvalue="Application.ContaApp" />
+        <item itemvalue="JUnit.ContaTest.testSaqueMaiorQueSaldo" />
+        <item itemvalue="JUnit.ContaTest.testSaqueTotal" />
+        <item itemvalue="JUnit.ContaTest.testSaqueNegativo" />
+        <item itemvalue="JUnit.ContaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +314,7 @@
       <workItem from="1534387925227" duration="1293000" />
       <workItem from="1534392443194" duration="194000" />
       <workItem from="1534598041927" duration="4995000" />
-      <workItem from="1534616915145" duration="7178000" />
+      <workItem from="1534616915145" duration="12975000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização variável mês início.">
       <created>1534605942480</created>
@@ -336,39 +327,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PessoaTest - 2018.08.18 at 13h 55m 00s.xml">
-      <configuration name="PessoaTest" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 47m 46s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdade - 2018.08.18 at 22h 01m 58s.xml">
-      <configuration name="PessoaTest.testMaiorIdade" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 49m 10s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdade - 2018.08.18 at 22h 03m 43s.xml">
-      <configuration name="PessoaTest.testMaiorIdade" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 49m 41s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdade - 2018.08.18 at 22h 03m 53s.xml">
-      <configuration name="PessoaTest.testMaiorIdade" configurationId="JUnit" />
+    <history-entry file="ContaTest_testDepositaNegativo - 2018.08.19 at 19h 50m 15s.xml">
+      <configuration name="ContaTest.testDepositaNegativo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdade - 2018.08.18 at 22h 04m 07s.xml">
-      <configuration name="PessoaTest.testMaiorIdade" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 50m 20s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdadeFalha - 2018.08.18 at 22h 08m 26s.xml">
-      <configuration name="PessoaTest.testMaiorIdadeFalha" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 52m 57s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdadeFalha - 2018.08.18 at 22h 08m 40s.xml">
-      <configuration name="PessoaTest.testMaiorIdadeFalha" configurationId="JUnit" />
+    <history-entry file="ContaTest - 2018.08.19 at 19h 57m 04s.xml">
+      <configuration name="ContaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdadeNegativo - 2018.08.18 at 22h 09m 48s.xml">
-      <configuration name="PessoaTest.testMaiorIdadeNegativo" configurationId="JUnit" />
+    <history-entry file="ContaTest_testSaqueNegativo - 2018.08.19 at 20h 01m 17s.xml">
+      <configuration name="ContaTest.testSaqueNegativo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest_testMaiorIdadeNegativo - 2018.08.18 at 23h 06m 15s.xml">
-      <configuration name="PessoaTest.testMaiorIdadeNegativo" configurationId="JUnit" />
+    <history-entry file="ContaTest_testSaqueTotal - 2018.08.19 at 20h 01m 53s.xml">
+      <configuration name="ContaTest.testSaqueTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PessoaTest - 2018.08.18 at 23h 28m 46s.xml">
-      <configuration name="PessoaTest" configurationId="JUnit" />
+    <history-entry file="ContaTest_testSaqueMaiorQueSaldo - 2018.08.19 at 20h 02m 47s.xml">
+      <configuration name="ContaTest.testSaqueMaiorQueSaldo" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34140000" />
+    <option name="totallyTimeSpent" value="39937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
@@ -376,7 +367,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32779455" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3272727" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -384,8 +375,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30454546" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3272727" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22401172" />
@@ -395,7 +386,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848486" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.477306" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -756,20 +747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="70" lean-forward="true" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
         </state>
       </provider>
     </entry>
@@ -796,10 +777,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaApp.java">
+    <entry file="file://$PROJECT_DIR$/src/EX_02/PessoaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_03/ContaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_03/ContaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

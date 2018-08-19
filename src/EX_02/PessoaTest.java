@@ -8,11 +8,6 @@ import static org.junit.jupiter.api.Assertions.*;
 public class PessoaTest {
     Pessoa pessoa;
 
-    @Before
-    public void setup() throws Exception {
-        Pessoa pessoa = new Pessoa();
-    }
-
     @Test
     public void testMaiorIdade() {
         pessoa = new Pessoa("Brendo", "13195058642", 18, "Masculino");
