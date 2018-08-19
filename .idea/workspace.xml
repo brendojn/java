@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/EX_01/Data.java" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0045dc-5714-4cd2-af56-bf2a226347c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/EX_02/PessoaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_02/PessoaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_02/PessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_02/PessoaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_03/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_03/Conta.java" afterDir="false" />
-    </list>
+    <list default="true" id="dd0045dc-5714-4cd2-af56-bf2a226347c6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,52 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Conta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-              <folding>
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContaApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EX_03/ContaApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EX_03/ContaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,18 +75,6 @@
               <item name="Exercicio01" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicio01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercicio01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercicio01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="EX_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercicio01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercicio01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="EX_03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,7 +253,7 @@
       <workItem from="1534387925227" duration="1293000" />
       <workItem from="1534392443194" duration="194000" />
       <workItem from="1534598041927" duration="4995000" />
-      <workItem from="1534616915145" duration="12975000" />
+      <workItem from="1534616915145" duration="13356000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização variável mês início.">
       <created>1534605942480</created>
@@ -359,11 +298,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39937000" />
+    <option name="totallyTimeSpent" value="40318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -375,11 +313,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3272727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32575756" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22401172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22401172" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -787,24 +725,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/EX_03/class_diagram.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EX_03/ContaTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -820,8 +742,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EX_03/ContaApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EX_03/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
