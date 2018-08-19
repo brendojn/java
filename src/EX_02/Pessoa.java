@@ -49,6 +49,12 @@ public class Pessoa {
     }
 
 
+    public boolean isMaiorIdade() {
+        if (getIdade() >= 18 && getIdade() >= 0) {
+            return true;
+        } else {
+            return false;
+        }
 
-
+    }
 }

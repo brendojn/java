@@ -9,14 +9,25 @@ public class PessoaTest {
     Pessoa pessoa;
 
     @Before
-    public void setup() throws Exception{
+    public void setup() throws Exception {
         Pessoa pessoa = new Pessoa();
     }
 
-
     @Test
     public void testMaiorIdade() {
-
+        pessoa = new Pessoa("Brendo", "13195058642", 18, "Masculino");
+        assertTrue(pessoa.isMaiorIdade());
     }
 
+    @Test
+    public void testMaiorIdadeFalha() {
+        pessoa = new Pessoa("Brendo", "13195058642", 17, "Masculino");
+        assertFalse(pessoa.isMaiorIdade());
+    }
+
+    @Test
+    public void testMaiorIdadeNegativo() {
+        pessoa = new Pessoa("Brendo", "13195058642", -1, "Masculino");
+        assertFalse(pessoa.isMaiorIdade());
+    }
 }
