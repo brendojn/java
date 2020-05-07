@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0045dc-5714-4cd2-af56-bf2a226347c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio01/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio01/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio02/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio02/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio03/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio03/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio04/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/desafios/desafio04/entities/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/aulas/ex/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/aulas/ex/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/desafios/desafio/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/desafios/desafio/entities/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/ex01/application/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/ex01/entities/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/ex02/application/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/ex02/entities/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introducao/desafio01/application/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introducao/ex01/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introducao/aulas/ex01/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introducao/ex01/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introducao/aulas/ex01/entities/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introducao/ex02/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introducao/aulas/ex02/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introducao/ex02/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introducao/aulas/ex02/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/aulas/ex01/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/aulas/ex01/entities/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/aulas/ex02/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/aulas/ex02/entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio01/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio01/entities/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio02/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio02/entities/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio03/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio03/entities/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio04/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio01/introducao/desafios/desafio04/entities/CurrencyConverter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program (1)">
+  <component name="RunManager" selected="Application.Program (3)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introducao.desafios.desafio04.application.Program" />
       <module name="java_study" />
@@ -92,12 +91,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.desafios.desafio.application.Program" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulamento.desafios.desafio.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introducao.aulas.ex01.application.Program" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="introducao.aulas.ex01.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.aulas.ex.application.Program" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulamento.aulas.ex.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,65 +182,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="java_study" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="java_study" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Program" />
       <item itemvalue="Application.Program (1)" />
       <item itemvalue="Application.Program (2)" />
       <item itemvalue="Application.Program (3)" />
-      <item itemvalue="Application.Program (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program (1)" />
-        <item itemvalue="Application.Program (4)" />
         <item itemvalue="Application.Program (3)" />
+        <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program (2)" />
         <item itemvalue="Application.Program (1)" />
       </list>
@@ -239,7 +215,9 @@
       <workItem from="1534598041927" duration="4995000" />
       <workItem from="1534616915145" duration="13356000" />
       <workItem from="1588528624810" duration="102000" />
-      <workItem from="1588528814619" duration="13374000" />
+      <workItem from="1588528814619" duration="14156000" />
+      <workItem from="1588730749411" duration="4146000" />
+      <workItem from="1588810822257" duration="2317000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização variável mês início.">
       <created>1534605942480</created>
@@ -291,29 +269,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="Atualização variável mês início." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2411" y="42" width="374" height="637" key="#com.intellij.ide.util.MemberChooser" timestamp="1588562008388">
-      <screen x="0" y="0" width="3286" height="728" />
+    <state x="2922" y="44" width="331" height="672" key="#com.intellij.ide.util.MemberChooser" timestamp="1588812205462">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
+    <state x="2922" y="44" width="331" height="672" key="#com.intellij.ide.util.MemberChooser/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588812205462" />
     <state x="2411" y="42" width="374" height="637" key="#com.intellij.ide.util.MemberChooser/0.0.3286.728@0.0.3286.728" timestamp="1588562008388" />
-    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1588564327290">
-      <screen x="0" y="0" width="3286" height="728" />
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom" timestamp="1588813135412">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state width="1878" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588536824486" />
+    <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588813135412" />
     <state width="1324" height="130" key="GridCell.Tab.0.bottom/0.0.3286.728@0.0.3286.728" timestamp="1588564327290" />
-    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1588564327289">
-      <screen x="0" y="0" width="3286" height="728" />
+    <state width="1324" height="130" key="GridCell.Tab.0.center" timestamp="1588813135412">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state width="1878" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588536824486" />
+    <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588813135412" />
     <state width="1324" height="130" key="GridCell.Tab.0.center/0.0.3286.728@0.0.3286.728" timestamp="1588564327289" />
-    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1588564327288">
-      <screen x="0" y="0" width="3286" height="728" />
+    <state width="1324" height="130" key="GridCell.Tab.0.left" timestamp="1588813135412">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state width="1878" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588536824486" />
+    <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588813135412" />
     <state width="1324" height="130" key="GridCell.Tab.0.left/0.0.3286.728@0.0.3286.728" timestamp="1588564327288" />
-    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1588564327289">
-      <screen x="0" y="0" width="3286" height="728" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right" timestamp="1588813135412">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state width="1878" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588536824486" />
+    <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588813135412" />
     <state width="1324" height="130" key="GridCell.Tab.0.right/0.0.3286.728@0.0.3286.728" timestamp="1588564327289" />
     <state width="1324" height="191" key="GridCell.Tab.1.bottom" timestamp="1588562857570">
       <screen x="0" y="0" width="3286" height="728" />
@@ -335,13 +318,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588528736042" />
-    <state x="628" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1588528943507">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2367" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1588810896668">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state x="628" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588528943507" />
+    <state x="628" y="242" key="com.intellij.ide.util.TipDialog/0.0.1920.728/1920.0.1366.768@0.0.1920.728" timestamp="1588730777153" />
+    <state x="2367" y="255" key="com.intellij.ide.util.TipDialog/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588810896668" />
+    <state x="2269" y="79" width="667" height="568" key="find.popup" timestamp="1588812423585">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2269" y="79" width="667" height="568" key="find.popup/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588812423585" />
     <state x="624" y="238" key="run.anything.popup" timestamp="1588537944006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588537944006" />
+    <state x="2266" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588812115532">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2266" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1920.728/1920.0.1366.768@1920.0.1366.768" timestamp="1588812115532" />
   </component>
 </project>
